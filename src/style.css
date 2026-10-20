@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme{
+  --font-open-sans:'open sans';
+  --color-gradient-blue:oklch(71.043% 0.12453 213.347);
+  --color-gradient-purple:oklch(34.575% 0.14676 324.815);
+  --color-special-red:oklch(59.888% 0.21001 26.314);
+  --color-special-gray:oklch(58.875% 0.02495 325.764);
+  --color-special-yellow:oklch(83.828% 0.14321 76.01);
+ --radius-special-triangle: 30% 80% 80% 30% / 30% 30% 80% 80%;
+
+}
+
+
